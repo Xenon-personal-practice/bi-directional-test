@@ -1,7 +1,3 @@
----
-description: Welcome to Atlas Documentation
----
-
 # Atlas Documentation
 
 ## Getting Super Powers
