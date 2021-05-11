@@ -8,6 +8,13 @@ description: Welcome to Atlas Documentation
 
 Becoming a super hero is a fairly straight forward process:
 
+![Pupper Hero](.gitbook/assets/capture.png)
+
+| Things | Stuff |
+| :--- | :--- |
+| no | u |
+| this | that |
+
 ```
 $ give me super-powers
 ```
